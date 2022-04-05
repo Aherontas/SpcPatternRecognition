@@ -137,3 +137,7 @@ After training both ANNs we came to the following range of results (Figures 9-13
 ![Training_State_2Layers](https://user-images.githubusercontent.com/25718684/161734511-c39a48a6-c0b9-4a39-b919-0b4787f6433f.png)
 
 (Figure 13 Training state of Neural Nets Gradients in correlation with epochs for 1 Layer and 2 Layers)
+
+
+# Conclusions
+The two ANNs gave us quite reliable results and we did not detect any signs of overfitting, however providing more patterns both simple and complex would definitely make ANN more demanding. Additionally we notice that the ANN with a Hidden Layer, has mainly the difficulty in separating Class 3-4-6 (Instability, Point Outside of Control Limits and Instability and Grouping) patterns which have the most similarities between them. One of future upgrades that could make our system more reliable would be extraction of primary patterns from real processing machines. Finally it is quite easy with the structure of our program in Python to add a variety of other methods data for patterns such as UCL, LCL and feature addition (median, percentage change between the current and a prior element etc.)
