@@ -113,4 +113,13 @@ After training both ANNs we came to the following range of results (Figures 9-13
 
 ![image](https://user-images.githubusercontent.com/25718684/161733477-c09a3872-8765-4569-ae68-1948a9143b2c.png)
 
+### More Information from Plot Confusion Graphs:
+
+![1_LAYER_PLOT_CONFUSION](https://user-images.githubusercontent.com/25718684/161733715-e8f7c738-d813-4dd2-992a-71adbba861c6.png)
+
+(Figure 9 Plot Confusion for NN with one Hidden Layer)
+
+![2_LAYER_PLOT_CONFUSION](https://user-images.githubusercontent.com/25718684/161733795-d9037f71-d3f4-460e-98df-4adb576d8109.png)
+
+(Figure 10 Plot Confusion for NN with two Hidden Layers)
 
