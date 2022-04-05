@@ -107,3 +107,10 @@ data (Figure 8).
 
 (Figure 8 training data structure)
 
+
+## Training Results
+After training both ANNs we came to the following range of results (Figures 9-13 contain a simulation for each ANN):
+
+![image](https://user-images.githubusercontent.com/25718684/161733477-c09a3872-8765-4569-ae68-1948a9143b2c.png)
+
+
