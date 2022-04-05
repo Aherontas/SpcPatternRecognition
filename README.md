@@ -101,4 +101,9 @@ data (Figure 8).
 ![Network_Architecture_2Hidden_Layers](https://user-images.githubusercontent.com/25718684/161732869-2f924abe-81a8-41bf-ae3f-969f156bb844.PNG)
 ![Network_Architecture_1Hidden_Layer](https://user-images.githubusercontent.com/25718684/161732871-5459d03a-e3d0-43fe-8186-204d0021a5c2.PNG)
 
-(Figure 7 Architecture of the two NNs)
+(Figure 7 Architecture of the two ANNs)
+
+![Validation_and_Test_Data_Parameters](https://user-images.githubusercontent.com/25718684/161733191-16f0be11-8fcc-462b-b46d-2b8f125c9b81.PNG)
+
+(Figure 8 training data structure)
+
