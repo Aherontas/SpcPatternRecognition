@@ -1,0 +1,29 @@
+# ASKISI3
+
+install.packages("qcc");
+library(qcc);
+
+# these are parameters that can be adjusted
+#
+MinMean <- 0;
+RangeOfMeans <- 5;
+SubgroupSize <- 4;
+NumberOfSubgroups <- 16;
+VariationWithinDistribution <- RangeOfMeans / 5 / 3; # adjust this to change the variation within subgroups  Divide by a large number to minimize the spread around the center.
+
+# dimension an array to hold the data
+
+data <- array(0, c(NumberOfSubgroups, SubgroupSize ));
+
+# get mean values for the distributions.  Randomly chosen from a uniform distribution.  No particular reason for a uniform distribution except to maximize the spread between distributions.
+
+MeanValues <- runif( SubgroupSize, MinMean, MinMean+RangeOfMeans );
+
+# generate an array where rows are the samples within subgroup and columns are the subgroups
+
+for(i in 1:SubgroupSize) {
+        data[1:NumberOfSubgroups,i] = rnorm(NumberOfSubgroups,MeanValues[i],VariationWithinDistribution);
+}
+
+# show Xbar chart
+qcc(data,type="xbar");
