@@ -48,7 +48,7 @@ Cycle and Instability = 0 0 0 0 0 1 1 0
 Instability and Grouping = 0 0 0 0 0 1
 
 
-##**Data Creation Examples:**
+##Data Creation Examples:
 
 ![UptrendExample1](https://user-images.githubusercontent.com/25718684/161730949-dfc7328e-6160-4cf3-97dd-0d62dc8cb33f.png)
 ![UptrendExample2](https://user-images.githubusercontent.com/25718684/161730951-0a4f95ad-ba3a-484d-8018-0b51f7a7f042.png)
