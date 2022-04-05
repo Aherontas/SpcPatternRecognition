@@ -36,8 +36,13 @@ dimensions 6000x24.
 will be binary. This will be in the format 6000x6. Structure:
 
 Stratification Pattern = 1 0 0 0 0 0
+
 Uptrend = 0 1 0 0 0 0
+
 Instability = 0 0 1 0 0 0
+
 Point Outside of Control Limits = 0 0 0 1 0 0
+
 Cycle and Instability = 0 0 0 0 0 1 1 0
+
 Instability and Grouping = 0 0 0 0 0 1
