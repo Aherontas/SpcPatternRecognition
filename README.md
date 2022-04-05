@@ -123,3 +123,14 @@ After training both ANNs we came to the following range of results (Figures 9-13
 
 (Figure 10 Plot Confusion for NN with two Hidden Layers)
 
+### More Information from ROC Graphs:
+
+![1_PLOT_ROC](https://user-images.githubusercontent.com/25718684/161734075-4f9bcba9-e6cb-42c1-8775-9290745b3b55.png)
+
+(Figure 11 Plot ROC for NN with a Hidden Layer)
+
+![2_PLOT_ROC](https://user-images.githubusercontent.com/25718684/161734238-c83edc80-3a51-463a-8e82-2efabb4e5a53.png)
+
+(Figure 12 Plot ROC for NN with two Hidden Layers)
+
+
