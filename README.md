@@ -53,3 +53,10 @@ Instability and Grouping = 0 0 0 0 0 1
 
 
 (Figure 1 Examples of data generation for pattern: Uptrend)
+
+
+![StratificationExample2](https://user-images.githubusercontent.com/25718684/161731270-16509919-0965-4182-99d2-8b6fdf3fbf0d.png)
+)![StratificationExample3](https://user-images.githubusercontent.com/25718684/161731264-406ef024-8a66-4227-b6aa-4ab2b36dea6d.png)
+![StratificationExample1](https://user-images.githubusercontent.com/25718684/161731267-22fc2c41-1c13-4913-8850-718f70ba3fcc.png)
+
+(Figure 2 Examples of pattern data creation: Stratification)
