@@ -1,5 +1,5 @@
 # SpcPatternRecognition
-# NTUA
+# Msc_Robotics_NTUA_Exercise
 
 Exercise on Identification of patterns of statistical control charts with artificial
 neural networks
