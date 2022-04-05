@@ -61,3 +61,26 @@ Instability and Grouping = 0 0 0 0 0 1
 
 (Figure 2 Examples of pattern data creation: Stratification)
 
+![OutsideOfControlExample2](https://user-images.githubusercontent.com/25718684/161731704-c14f4824-cf4a-413c-bd3d-312f3b86f39d.png)
+![OutsideOfControlExample3](https://user-images.githubusercontent.com/25718684/161731708-b5240915-4fe4-42e2-8302-a96582faf615.png)
+![OutsideOfControlExample1](https://user-images.githubusercontent.com/25718684/161731709-56622a9c-5377-42cb-8db7-f5706bedd031.png)
+
+(Figure 3 Examples of pattern data generation: Point Outside Of Control)
+
+![InstabilityExample1](https://user-images.githubusercontent.com/25718684/161731780-8e169ecc-e2b5-45cd-95df-1ccaf3a8d7d8.png)
+![InstabilityExample2](https://user-images.githubusercontent.com/25718684/161731784-df9a159d-ac64-46b7-b791-700317733b7c.png)
+![InstabilityExample3](https://user-images.githubusercontent.com/25718684/161731785-090ab9ec-d5e8-4c3d-b039-6c4ce7eabca4.png)
+
+(Figure 4 Examples of data creation for pattern: Instability)
+
+![CycleAndInstabilitylExample1](https://user-images.githubusercontent.com/25718684/161731932-1c0f2513-2a79-45a9-b8ba-ac0fc0e5399d.png)
+![CycleAndInstabilitylExample2](https://user-images.githubusercontent.com/25718684/161731935-63dd0852-cfb2-44cb-a730-8ef9ceb47952.png)
+![CycleAndInstabilitylExample3](https://user-images.githubusercontent.com/25718684/161731936-156b97b8-788a-4268-a86d-1d46094b94fa.png)
+
+(Figure 5 Examples of data generation for pattern: Cycle and Instability)
+
+![Instability_And_GroupingExample3](https://user-images.githubusercontent.com/25718684/161732031-1f5ceac6-8885-4707-adc1-59ba6098bb4c.png)
+![Instability_And_GroupingExample1](https://user-images.githubusercontent.com/25718684/161732035-6ae7773b-dffe-42ef-856d-16eda3931bb2.png)
+![Instability_And_GroupingExample2](https://user-images.githubusercontent.com/25718684/161732039-bf554acc-3708-4149-b822-dc4780113429.png)
+
+(Figure 6 Examples of data creation for pattern: Instability and Grouping)
