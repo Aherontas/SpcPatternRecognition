@@ -1,8 +1,8 @@
 # SpcPatternRecognition
 # Msc_In_Robotics_NTUA_Exercise
 
-Exercise on Identification of patterns of statistical control charts with artificial
-neural networks
+**Exercise on Identification of patterns of statistical control charts with artificial
+neural networks.**
 
 
 In the present exercise we were asked to approach the SPC (Statistical Process Control) pattern approach and the
