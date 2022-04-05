@@ -96,3 +96,9 @@ Below we see the steps we followed to create 2 TND. The only difference
 two TNDs is that one consists of one Hidden Layer and the other of two (Figure 7). Education
 of TND was done with a percentage of 80-5-15, ie 4800 training data, 300 validation data and 900 testing
 data (Figure 8).
+
+
+![Network_Architecture_2Hidden_Layers](https://user-images.githubusercontent.com/25718684/161732869-2f924abe-81a8-41bf-ae3f-969f156bb844.PNG)
+![Network_Architecture_1Hidden_Layer](https://user-images.githubusercontent.com/25718684/161732871-5459d03a-e3d0-43fe-8186-204d0021a5c2.PNG)
+
+(Figure 7 Architecture of the two NNs)
