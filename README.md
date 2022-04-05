@@ -133,4 +133,7 @@ After training both ANNs we came to the following range of results (Figures 9-13
 
 (Figure 12 Plot ROC for NN with two Hidden Layers)
 
+![Training_State_1Layer](https://user-images.githubusercontent.com/25718684/161734509-b0f66201-2340-48cc-ace5-f48b70b41b6d.png)
+![Training_State_2Layers](https://user-images.githubusercontent.com/25718684/161734511-c39a48a6-c0b9-4a39-b919-0b4787f6433f.png)
 
+(Figure 13 Training state of Neural Nets Gradients in correlation with epochs for 1 Layer and 2 Layers)
