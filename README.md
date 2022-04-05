@@ -87,3 +87,12 @@ Instability and Grouping = 0 0 0 0 0 1
 ![Instability_And_GroupingExample2](https://user-images.githubusercontent.com/25718684/161732039-bf554acc-3708-4149-b822-dc4780113429.png)
 
 (Figure 6 Examples of data creation for pattern: Instability and Grouping)
+
+
+## Creation of the Artificial Neural Network
+The TND was created using MatLab's Neural Pattern Recognition library.
+We have selected this tool for the ease of use it offers as well as the plethora of options.
+Below we see the steps we followed to create 2 TND. The only difference
+two TNDs is that one consists of one Hidden Layer and the other of two (Figure 7). Education
+of TND was done with a percentage of 80-5-15, ie 4800 training data, 300 validation data and 900 testing
+data (Figure 8).
