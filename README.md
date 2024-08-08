@@ -1,4 +1,4 @@
-# SpcPatternRecognition
+# SpcPatternRecognition-Exercise
 # Msc_In_Robotics_NTUA_Exercise
 
 **Exercise on Identification of patterns of statistical control charts with use of artificial
